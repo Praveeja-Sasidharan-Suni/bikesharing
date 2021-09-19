@@ -64,7 +64,7 @@ morning and 5-7pm in the evening.
 
 ![August%20peak%20hours.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/August%20peak%20hours.PNG?raw=true)
 
-
+-To see all of my visualizations please click the link below:
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/praveeja.sasidharan.suni/viz/BikeSharing_16319989367740/Bikesharingstory?publish=yes)
 
