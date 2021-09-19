@@ -2,16 +2,16 @@
 
 Using tableau to analyze bikeshare data in NYC.
 
-# Overview of the Analysis
+## Overview of the Analysis
 
 The purpose of our project is to see if the bike rental business is worth investing in Des Moines. One of the key factors we need to look at is trip duration. Finding out how long the trips
 are in the month of August will give us a good analysis on when the bikes are rented, how long they are rented and what times are the most 
 popular times to rent a bike. Before we do any of this there needs to be a change made in the csv to change the column that records the trip duration in seconds to hours, minutes and 
 seconds. Once this was completed I uploaded the new CSV into tableau with the converted tripduration column.
 
-# Results:
+## Results:
 
-## Deliverable 1
+### Deliverable 1
 
 -Using Python and Pandas functions, we will convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). 
 After we convert the "tripduration" column to a datetime dataytpe, we will export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
@@ -23,7 +23,7 @@ The DataFrame is exported as a new file without the index column.
 
 ![newcsv.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/newcsv.PNG?raw=true)
 
-## Deliverable 2
+### Deliverable 2
 
 Using tableau I have created 8 different visulizations using the total number of trips, the types of users and the trip duration. Here are the findins:
 
@@ -56,11 +56,11 @@ morning and 5-7pm in the evening.
 
 ![customers.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/customers.PNG?raw=true
  
--Gender breakdown: 
+-Gender breakdown: There are 1530271 male,588431 female and 225531 other bike riders .
 
 ![Gender%20breakdown.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/Gender%20breakdown.PNG?raw=true)
 
--August peak hours:There are 1530271 male,588431 female and 225531 other bike riders .
+-August peak hours:The peak bike ride hours are between 5.6pm.
 
 ![August%20peak%20hours.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/August%20peak%20hours.PNG?raw=true)
 
@@ -68,14 +68,13 @@ morning and 5-7pm in the evening.
 
 [link to dashboard](https://public.tableau.com/app/profile/praveeja.sasidharan.suni/viz/BikeSharing_16319989367740/Bikesharingstory?publish=yes)
 
-## Deliverable 3
+### Deliverable 3
 - A detailed written report on bike sharing is done.
 
-# Summary
+## Summary
 
-From my visualisations, its clear that Thursday is the most popular day to take a bike ride and the business is  in peak during office starting and ending hours.
+From my visualisations, its clear that Thursday is the most popular day to take a bike ride and the business is in peak during office starting and ending hours.
 It would be a good idea for our customer to start the bikeshare business in a different city because whether people are biking to get to work or just doing it for fun,
-there are lots of subscribers or customers.Tourists could also be using citibikes to explore the city throughout the day, which plotting trip paths would be able to show. 
+there are lots of subscribers and customers.Tourists could also be using citibikes to explore the city throughout the day, which plotting trip paths would be able to show. 
 Although I think we have enough evidence to convince our customer to do this even if we are only looking at one month, 
-there are some other visulizations that can further back this claim. If we are able to look at the colder months in the city to see how many riders we have in November/December so that 
-the customer can prepare for those months too .
+there are some other visulizations that can further back this claim. If we are able to look at the colder months in the city to see how many riders we have in November/December so that the customer can prepare for those months too .
