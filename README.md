@@ -54,7 +54,7 @@ morning and 5-7pm in the evening.
 
 -Total customers:There are 1,900,349 subscribers and 443,865 customers. 
 
-![customers.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/customers.PNG?raw=true
+![customers.PNG](https://github.com/Praveeja-Sasidharan-Suni/bikesharing/blob/main/images/customers.PNG?raw=true)
  
 -Gender breakdown: There are 1530271 male,588431 female and 225531 other bike riders .
 
